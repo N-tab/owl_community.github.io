@@ -87,14 +87,15 @@ text-align: center;
 	color: #fff;
 }
 .column{
-column-count: 3;
+column-count: 2;
 }
 .people{
 background-color: white;
 width: 25%;
 hight: 30%;
 text-align: center;
-font-size: 10px;
+font-size: 5%;
+box-sizing: border-box;
 }
 
 
