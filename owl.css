@@ -110,7 +110,7 @@ text-align: center;
 background-color: #fff;
 width: 160px;
 height: auto;
-margin: 0 10px 0 10px;
+margin: 0 5px 10px 5px;
 border-radius: 5px 5px 5px 5px;
 }
 .container {
@@ -126,7 +126,7 @@ border-radius: 5px 5px 5px 5px;
 }
 img{
 width: 150px;
-height: auto;
+height: 84.66px;
 margin: 0 10px -7px 10px;
 border-radius: 5px 5px 5px 5px;
 }
@@ -135,6 +135,12 @@ border-radius: 5px 5px 5px 5px;
 }
 .info:hover{
 	color: black;
+}
+.users{
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+
 }
 /*...*/
 
