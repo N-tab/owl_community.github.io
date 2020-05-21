@@ -115,17 +115,17 @@ border-radius: 5px 5px 5px 5px;
 }
 .container {
 font-family: 'Pattaya', sans-serif;
-box-shadow: 0 10px 10px 0 rgba(0,0,0,0.2);
+box-shadow: 0 10px 10px 10px rgba(0,0,0,0.2);
 background-color: #fff;
 width: 160px;
 height: 210px;
 text-align: center;
-margin: 0 10px 0 10px;
+margin: 0 10px 0 0;
 padding: 10px;
 border-radius: 5px 5px 5px 5px;
 }
 img{
-width: 160px;
+width: 150px;
 height: auto;
 margin: 0 10px -7px 10px;
 border-radius: 5px 5px 5px 5px;
