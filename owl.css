@@ -87,7 +87,10 @@ text-align: center;
 	color: #fff;
 }
 .people{
-
+column-count: 3;
+background-color: white;
+width: 25%;
+hight: 30%;
 }
 
 
