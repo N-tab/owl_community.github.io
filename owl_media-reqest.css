@@ -29,10 +29,16 @@ text-decoration-line: none;}
 	text-decoration-line: none;
 	margin: 0 0 0 1%;
 }
+h1{
+	font-family: 'Pattaya', sans-serif;
+	font-size: 40px;
+	text-align: center;
+	color: #fff;
+}
 .main-text{
 font-family: 'Marck Script', cursive;
 font-size: 25px;
 text-align: center;
-	color: grey;
+	color: black;
 }
 }
