@@ -86,8 +86,10 @@ font-size: 25px;
 text-align: center;
 	color: #fff;
 }
-.people{
+.column{
 column-count: 3;
+}
+.people{
 background-color: white;
 width: 25%;
 hight: 30%;
