@@ -102,26 +102,39 @@ box-sizing: border-box;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
     border-radius: 5px;
-}
-
-/* Add rounded corners to the top left and the top right corner of the image */
-img {
-    border-radius: 5px 5px 0 0;
 }*/
 
 .card {
-box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 transition: 0.3s;
 text-align: center;
 background-color: #fff;
-width: 25%;
-hight: 30%;
+width: 160px;
+height: auto;
+margin: 0 10px 0 10px;
+border-radius: 5px 5px 5px 5px;
 }
 .container {
-
+font-family: 'Pattaya', sans-serif;
+box-shadow: 0 10px 10px 10px rgba(0,0,0,0.2);
 background-color: #fff;
-width: 25%;
-hight: 25%;
+width: 160px;
+height: 210px;
+text-align: center;
+margin: 0 10px 0 10px;
+padding: 10px;
+border-radius: 5px 5px 5px 5px;
+}
+img{
+width: 160px;
+height: auto;
+margin: 0 10px -7px 10px;
+border-radius: 5px 5px 5px 5px;
+}
+.info{
+	color: white;
+}
+.info:hover{
+	color: black;
 }
 
 
