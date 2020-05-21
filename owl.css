@@ -110,16 +110,18 @@ img {
 }*/
 
 .card {
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-    transition: 0.3s;
-    text-align: center;
-    background-color: #fff;
-}
-.container {
-    padding: 2px 16px;
+box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+transition: 0.3s;
+text-align: center;
 background-color: #fff;
 width: 25%;
 hight: 30%;
+}
+.container {
+padding: 2px 16px;
+background-color: #fff;
+width: 25%;
+hight: 25%;
 }
 
 
