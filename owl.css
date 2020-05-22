@@ -130,11 +130,13 @@ height: 84.66px;
 margin: 0 10px -7px 10px;
 border-radius: 5px 5px 5px 5px;
 }
-.card{
+.info{
 	color: white;
+ transition: 0.3s;
 }
-.card:hover{
+.info:hover{
 	color: black;
+ transition: 0.3s;
 }
 .users{
 	display: flex;
