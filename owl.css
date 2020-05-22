@@ -75,6 +75,18 @@ background-size: cover;
 background-position: center center;   
 background-attachment: fixed;
 }
+.main-false{
+background-image: url(1.jpg);
+width: auto;
+max-height: 3000px;
+min-height: 1000px;
+height: auto;
+margin: -27px -12px -25px -8px; 
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center center;   
+background-attachment: fixed;
+}
 h1{
 	font-family: 'Pattaya', sans-serif;
 	font-size: 40px;
