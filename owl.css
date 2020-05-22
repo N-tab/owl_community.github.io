@@ -130,10 +130,10 @@ height: 84.66px;
 margin: 0 10px -7px 10px;
 border-radius: 5px 5px 5px 5px;
 }
-.info{
+.card{
 	color: white;
 }
-.info:hover{
+.card:hover{
 	color: black;
 }
 .users{
