@@ -1,6 +1,6 @@
 @media only screen and (max-width: 531px) {   
 .main { background-image: url(2.jpg); 
-background-size: cover; 
+background-size: auto; 
 background-position: center center;   
 background-attachment: local; 
 background-repeat: no-repeat;
