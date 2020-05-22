@@ -6,8 +6,7 @@ background-attachment: fixed;
 background-repeat: no-repeat;
 width: auto;
 max-height: 80000px;
-height: auto;
-min-height: 300px;
+height: 300px;
 margin: -27px -12px -5px -8px; }
 .title-main{
 font-family: 'Pattaya', sans-serif;
