@@ -1,11 +1,13 @@
 @media only screen and (max-width: 520px) {   
-.main { background-image: url(2.jpg); 
+.main { 
+background-color: white;
+/*background-image: url(2.jpg);*/
 background-size: cover; 
 background-position: center center;   
 background-attachment: local; 
 background-repeat: no-repeat;
 width: auto;
-height: 300px;
+height: auto;
 margin: -27px -12px -5px -8px; }
 .title-main{
 font-family: 'Pattaya', sans-serif;
