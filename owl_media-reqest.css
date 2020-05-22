@@ -1,10 +1,10 @@
-@media only screen and (max-width: 531px) {   
+@media only screen and (max-width: 520px) {   
 .main { background-image: url(2.jpg); 
-background-size: auto; 
+background-size: cover; 
 background-position: center center;   
 background-attachment: local; 
 background-repeat: no-repeat;
-width: 100%;
+width: auto;
 height: 8000px;
 margin: -27px -12px -5px -8px; }
 .title-main{
