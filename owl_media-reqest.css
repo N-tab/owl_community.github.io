@@ -1,6 +1,7 @@
 @media only screen and (max-width: 520px) {   
 .main { 
 background-image: url(2.jpg);
+background-color: black;
 background-size: cover; 
 background-position: center center;   
 background-attachment: local; 
