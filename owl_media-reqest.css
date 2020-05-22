@@ -2,7 +2,7 @@
 .main { background-image: url(2.jpg); 
 background-size: cover; 
 background-position: center center;   
-background-attachment: fixed; 
+background-attachment: local; 
 background-repeat: no-repeat;
 width: auto;
 height: 300px;
