@@ -10,6 +10,16 @@ background-position: center;
 width: auto;
 height: auto;
 margin: -27px -12px -5px -8px; }
+.main-false{
+background-color: black;
+background-size: cover; 
+background-position: center center;   
+background-attachment: local; 
+background-repeat: repeat-y;
+background-position: center;
+width: auto;
+height: auto;
+margin: -27px -12px -5px -8px; }
 .title-main{
 font-family: 'Pattaya', sans-serif;
 color: #fff;
