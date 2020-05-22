@@ -56,7 +56,7 @@ text-align: center;
 }
 @media (min-width: 521px){
 .main-false{
-background-color: black;
+background-image: url(1.jpg);
 background-size: cover; 
 background-position: center center;   
 background-attachment: local; 
