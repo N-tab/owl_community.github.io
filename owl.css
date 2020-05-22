@@ -138,8 +138,9 @@ padding: 10px;
 border-radius: 0px 5px 5px 5px;
 }
 img{
-width: 155px;
+width: auto;
 height: 84.66px;
+img-align: center;
 margin: 0 10px -7px 0px;
 border-radius: 5px 5px 5px 5px;
 }
