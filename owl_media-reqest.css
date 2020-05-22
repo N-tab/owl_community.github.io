@@ -54,3 +54,15 @@ text-align: center;
 	color: white;
 }
 }
+@media (min-width: 521px){
+.main-false{
+background-color: black;
+background-size: cover; 
+background-position: center center;   
+background-attachment: local; 
+background-repeat: repeat-y;
+background-position: center;
+width: auto;
+height: auto;
+margin: -27px -12px -5px -8px; }
+}
